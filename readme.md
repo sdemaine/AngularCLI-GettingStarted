@@ -1,3 +1,8 @@
+#### Create initial app
+```
+ng new my-sassy-app --style=scss
+```
+
 #### Sass folder structure
 >> *main.scss*
 >> **abstracts**
