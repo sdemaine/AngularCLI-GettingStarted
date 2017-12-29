@@ -83,3 +83,22 @@ md sass && cd sass && md abstracts && md base && md components && md layout && m
 ```
 The tilde (~) will tell Sass to look in the **src/** folder and is a quick shortcut to importing Sass files.      
 
+#### Setting up AngularCLI debuggin in Visual Studio Code
+https://github.com/Microsoft/vscode-recipes/tree/master/Angular-CLI
+
+
+#### Github adding remote repository
+https://help.github.com/articles/adding-a-remote/
+
+
+Add remote repository
+
+```
+git remote add origin https://github.com/user/repo.git
+```
+
+
+Set Upstream Branch
+```
+git push --set-upstream origin master
+```
